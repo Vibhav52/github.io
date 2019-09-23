@@ -1,0 +1,413 @@
+*
+{
+margin: 0;
+padding: 0;
+}
+/*-----Navigation---*/
+#nav-bar
+{
+position: sticky;
+top: 0;
+z-index: 10;
+
+}
+
+.navbar-brand img
+{
+height: 140px;
+padding-left: 0px;  
+}
+.navbar-nav li
+{
+padding: 0 20px;
+}
+.navbar-nav li a
+{
+float: right;
+text-align: left;
+}
+#nav-bar ul li a:hover
+{
+color: #007bff!important;
+}
+.navbar
+{
+background: #D8EFC2;
+}
+.navbar-toggler
+{
+border: none!important;
+}
+.nav-link
+{
+color: #555!important;
+font-weight: 600;
+font-size: 16px;
+}
+
+/*----About----*/
+#about
+{
+padding-top: 50px;
+padding-bottom: 50px;
+color: #555;
+}
+#about .btn
+{
+margin-top: 20px;
+margin-bottom: 30px;
+}
+.about content
+{
+padding-top: 20px;
+}
+.skills-bar p
+{
+margin-bottom: 6px;
+font-weight: 600;
+}
+.progress-bar
+{
+border-radius: 16px;
+}
+.progress
+{
+border-radius: 16px !important;
+margin-bottom: 25px;
+}
+/*----animation-------*/
+
+#animation
+{
+
+	padding-top: 30px;
+	padding-bottom: 50px;
+	background-color: #65111F;
+	
+}
+video
+{
+	width: 600px;
+	height: 400px;
+	padding-top: 40px;
+	padding-bottom: 30px;
+}
+
+/*----blenderanimation-------*/
+
+#blenderanimation
+{
+
+	padding-top: 30px;
+	padding-bottom: 50px;
+	background-color: #14132B;
+	
+}
+anim
+{
+	width: 600px;
+	height: 400px;
+	padding-top: 40px;
+	padding-bottom: 30px;
+}
+
+/*----windows-------*/
+
+#windows
+{
+
+	padding-top: 30px;
+	padding-bottom: 100px;
+	background-color: #0E3228;
+	
+}
+.windgame
+{
+	width: 600px;
+	height: 600px;
+	padding-top: 50px;
+	padding-bottom: 30px;
+	margin-left: 30px
+}
+
+.windgam
+{
+	width: 600px;
+	height: 600px;
+	padding-top: 30px;
+	padding-bottom: 30px;
+	margin-left: 0px;
+}
+
+.windga
+{
+	width: 600px;
+	height: 600px;
+	padding-top: 30px;
+	padding-bottom: 30px;
+	margin-left: 0px;
+}
+
+/*----game1----*/
+.windowstext1
+{
+padding-top: 90px;
+padding-bottom: 10px;
+color: white;
+}
+
+.aboutgame1
+{
+padding-top: 0px;
+color: white;
+margin-right: 40px;
+margin-left: 40px;
+}
+
+
+/*----game2----*/
+.windowstext2
+{
+padding-top: 190px;
+padding-bottom: 10px;
+color: white;
+}
+
+.aboutgame2
+{
+padding-top: 0px;
+color: white;
+margin-right: 40px;
+margin-left: 40px;
+}
+
+
+/*----game3----*/
+.windowstext3
+{
+padding-top: 180px;
+padding-bottom: 10px;
+color: white;
+}
+
+.aboutgame3
+{
+padding-top: 0px;
+color: white;
+margin-right: 40px;
+margin-left: 40px;
+}
+
+
+/*----android-------*/
+
+#android
+{
+
+	padding-top: 30px;
+	padding-bottom: 100px;
+	background-color: #390D3B;
+	
+}
+.andgame
+{
+	width: 500px;
+	height: 500px;
+	padding-top: 50px;
+	padding-bottom: 30px;
+	margin-left: 80px
+}
+
+
+
+/*----andgame----*/
+.androidtext1
+{
+padding-top: 150px;
+padding-bottom: 10px;
+color: white;
+margin-right: 10px;
+
+
+}
+
+.andgametext
+{
+padding-top: 0px;
+color: white;
+margin-right: 60px;
+margin-left: 10px;
+font-size: 18px;
+}
+
+/*----effect-------*/
+
+#effects
+{
+
+	padding-top: 30px;
+	padding-bottom: 50px;
+	background-color: #000000;
+	
+}
+.effectsp
+{
+	width: 600px;
+	height: 400px;
+	padding-top: 40px;
+	padding-bottom: 30px;
+	margin-left: 90px;
+}
+
+/*----digital-------*/
+
+#digital
+{
+
+	padding-top: 30px;
+	padding-bottom: 400px;
+	background-color: #292504;
+	
+}
+.designer
+{
+	width: 400px;
+	height: 400px;
+	padding-top: 50px;
+	padding-bottom: 30px;
+	margin-left: 120px
+	
+}
+
+/*----gif-------*/
+
+.gify
+{
+	width: 400px;
+	height: 400px;
+	padding-bottom: 30px;
+}
+
+.giphy
+{
+	width: 400px;
+	height: 400px;
+	padding-bottom: 30px;
+}
+
+
+/*------ongoingprojects-------*/
+
+#ongoingprojects
+{
+
+	padding-top: 30px;
+	padding-bottom: 200px;
+	background-color: #190000;
+	
+}
+.Ongoingproject
+{
+	width: 400px;
+	height: 400px;
+	padding-top: 50px;
+	padding-bottom: 40px;
+	margin-left: 150px
+}
+
+.Ongoingprojec
+{
+	width: 600px;
+	height: 600px;
+	padding-top: 110px;
+	padding-bottom: 40px;
+	margin-left: 160px;
+}
+
+
+.Ongoingproje
+{
+	width: 600px;
+	height: 600px;
+	padding-top: 40px;
+	padding-bottom: 0px;
+	margin-left: 90px;
+}
+
+
+
+/*----game1----*/
+.ongoingtext1
+{
+padding-top: 150px;
+padding-bottom: 10px;
+color: white;
+margin-right: 70px;
+margin-left: 70px;
+
+}
+
+.aboutongoing1
+{
+padding-top: 0px;
+color: white;
+margin-right: 60px;
+margin-left: 40px;
+}
+
+
+/*----game2----*/
+.ongoingtext2
+{
+padding-top: 250px;
+padding-bottom: 80px;
+color: white;
+margin-right: 70px;
+margin-left: 70px;
+}
+
+.aboutongoing2
+{
+padding-top: 0px;
+color: white;
+margin-right: 40px;
+margin-left: 40px;
+}
+
+
+/*----game21----*/
+.ongoingtext21
+{
+padding-top: 190px;
+margin-right: 70px;
+margin-left: 70px;
+padding-bottom: 10px;
+color: white;
+}
+
+.aboutongoing21
+{
+padding-top: 0px;
+color: white;
+margin-right: 40px;
+margin-left: 40px;
+}
+
+
+/*----game3----*/
+.ongoingtext3
+{
+padding-top: 180px;
+padding-bottom: 10px;
+color: white;
+margin-right: 70px;
+margin-left: 70px;
+}
+
+.aboutongoing3
+{
+padding-top: 0px;
+color: white;
+margin-right: 40px;
+margin-left: 40px;
+}
